@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning: C++ Java Html Css
 - 💞️ I’m looking to collaborate on: Online trolling
 - 📫 How to reach me: Who said you can?
+- https://google.com/
 
 <!---
 NEKalashnik22/NEKalashnik22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
