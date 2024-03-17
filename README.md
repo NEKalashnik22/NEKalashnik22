@@ -1,36 +1,35 @@
-<h2 align="left">My name is Nick and I'm a student, from Russia</h2>
-
-###
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-</div>
-
-###
-
-<img align="left" height="150" src="https://media.discordapp.net/attachments/1069948827743821826/1093218769855332463/ezgif.com-gif-maker_7.gif?ex=660450d1&is=65f1dbd1&hm=fad1efa5a0e6f1c0fd1f087453ed7766369ab82c58c23d7fb649a1c779740804&"  />
-
-###
-
-<div align="left">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
+<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=500&color=676767&center=true&vCenter=true&random=false&width=435&lines=Loading+.+.+.;Loading+.+.+.;Loading+.+.+." alt="Typing SVG" /></a></h1>
+<br>
+<h1 align="center" >My name is Nick and I'm a student from Russia</h1>
+  <h3 align="center">🦐 A full-stack developer, a designer, and a high school student. In my free time, 
+   <br> I like to go to the gym, work on small projects, fly in FPV, and go out with friends! <br> In the evening I am pretty active so  feel free to contact me!</h3>
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
+<hr>
+<h1 align="center">💻Languages, Frameworks & Tools</h1>
 
-###
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,cpp,css,html,figma,ai,ps,js,vscode,visualstudio&perline=6" />
+  </a>
+</p>
+<hr>
+<div align="center">
+  <h2>♻️ My Stats ♻️</h2>
+  <br>
+  <div align="center">
+  <img  width=500  alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent" />
+  <br>
+  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nekalashnik22&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+  <br/><br/><br/>
+</div>
+
 
