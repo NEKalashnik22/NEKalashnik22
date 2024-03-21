@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
+<br>
 <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=500&color=676767&center=true&vCenter=true&random=false&width=435&lines=Loading+.+.+.;Loading+.+.+.;Loading+.+.+." alt="Typing SVG" /></a></h1>
@@ -24,10 +24,9 @@
 <div align="center">
   <h2>♻️ My Stats (Kinda dont work lol)♻️</h2>
   <br>
-  <div align="center">
-  <img  width=500  alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent" />
-  <br>
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekalashnik22&layout=compact&theme=transparent" alt="top langs" />
+  <div style="display: flex; flex-direction: row;">
+<img width=400 height=200 alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent" />
+ <img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekalashnik22&layout=compact&theme=transparent" alt="top langs" />
   </div>
  <br/><br/><br/>
 </div>
