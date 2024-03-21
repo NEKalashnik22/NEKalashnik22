@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,cpp,css,html,figma,ai,ps,js,vscode,visualstudio&perline=6" />
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,figma,ai,ps,cpp,css,html,js,vscode,visualstudio&perline=6" />
   </a>
 </p>
 <hr>
@@ -29,7 +29,8 @@
   <br>
   <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekalashnik22&layout=compact&theme=transparent" alt="top langs" />
   </div>
-  <br/><br/><br/>
+ <br/><br/><br/>
 </div>
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 
