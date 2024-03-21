@@ -22,12 +22,12 @@
 </p>
 <hr>
 <div align="center">
-  <h2>♻️ My Stats ♻️</h2>
+  <h2>♻️ My Stats (Kinda dont work lol)♻️</h2>
   <br>
   <div align="center">
   <img  width=500  alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent" />
   <br>
-  <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nekalashnik22&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekalashnik22&layout=compact&theme=transparent" alt="top langs" />
   </div>
   <br/><br/><br/>
 </div>
