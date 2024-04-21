@@ -16,7 +16,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,figma,ai,ps,cpp,css,html,js,vscode,visualstudio&perline=6" />
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,figma,ai,ps,qt,cpp,css,html,js,vscode,visualstudio,git&perline=7" />
   </a>
 </p>
 <hr>
