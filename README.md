@@ -25,10 +25,9 @@
 <br>
 <div align="center">
   <h1>♻️ My Stats♻️</h1>
-  <br>
-  <div style="display: flex; flex-direction: row;">
-<img width=400 height=200 alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent" />
- <img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekalashnik22&layout=compact&theme=transparent" alt="top langs" />
+  <div style="align: center">
+<img width=600 height=350 alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent">
+ 
   </div>
  <br/><br/><br/>
 </div>
