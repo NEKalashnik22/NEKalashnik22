@@ -15,7 +15,6 @@
     <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,figma,ai,ps,qt,cpp,css,html,js,py,vscode,visualstudio&perline=7" />
   </a>
 </p>
-<br>
 <div align="center">
   <h1>♻️ My Stats♻️</h1>
   <div style="align: center" >
@@ -23,7 +22,6 @@
 <img width=600 height=350 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent">
  </a>
   </div>
- <br/><br/><br/>
 </div>
 <a href=""><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"></a>
 
