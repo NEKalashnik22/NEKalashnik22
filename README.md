@@ -1,10 +1,3 @@
-<br>
-<br>
-<p align="center">
-  <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=500&color=676767&center=true&vCenter=true&random=false&width=435&lines=Loading+.+.+.;Loading+.+.+.;Loading+.+.+." alt="Typing SVG" /></a></p>
-  <br>
-  <br>
-  <br>
 <h1 align="center" >My name is Nick and I'm a student from Russia</h1>
   <h3 align="center">🦐 A full-stack developer, a designer, and a high school student. In my free time, 
    <br> I like to go to the gym, work on small projects, fly in FPV, and go out with friends! <br> In the evening I am pretty active so  feel free to contact me!</h3>
