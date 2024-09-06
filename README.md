@@ -18,7 +18,7 @@
 <h1 align="center">💻Languages, Frameworks & Tools</h1>
 
 <p align="center">
-  <a>
+  <a href="">
     <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,figma,ai,ps,qt,cpp,css,html,js,py,vscode,visualstudio&perline=7" />
   </a>
 </p>
@@ -32,6 +32,6 @@
   </div>
  <br/><br/><br/>
 </div>
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<a href=""><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"></a>
 
 
