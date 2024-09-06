@@ -18,7 +18,7 @@
   <h1>♻️ My Stats♻️</h1>
   <div style="align: center" >
     <a href="https://github.com/NEKalashnik22?tab=repositories">
-<img width=600 height=350 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent">
+<img width=550 height=300 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent&hide_title=true">
  </a>
   </div>
 </div>
