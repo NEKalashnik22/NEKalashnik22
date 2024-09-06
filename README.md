@@ -18,7 +18,7 @@
   <h2> My Stats</h2>
   <div style="align: center" >
     <a href="https://github.com/NEKalashnik22?tab=repositories">
-<img width=550 height=300 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent&hide_title=true">
+<img width=550 height=300 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=city_lights&hide_title=true&hide_border=true&hide=stars,prs">
  </a>
   </div>
 </div>
