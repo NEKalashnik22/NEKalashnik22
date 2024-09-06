@@ -26,8 +26,9 @@
 <div align="center">
   <h1>♻️ My Stats♻️</h1>
   <div style="align: center">
-<img width=600 height=350 alt="snake eating my contributions" src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent">
- 
+    <a href="https://github-readme-stats.vercel.app/api?username=NEKalashnik22">
+<img width=600 height=350 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent">
+ </a>
   </div>
  <br/><br/><br/>
 </div>
