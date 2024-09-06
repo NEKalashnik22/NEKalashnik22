@@ -25,7 +25,7 @@
 <br>
 <div align="center">
   <h1>♻️ My Stats♻️</h1>
-  <div style="align: center">
+  <div style="align: center" href="https://github-readme-stats.vercel.app/api?username=NEKalashnik22">
     <a href="https://github-readme-stats.vercel.app/api?username=NEKalashnik22">
 <img width=600 height=350 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=transparent">
  </a>
