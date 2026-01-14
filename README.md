@@ -14,14 +14,6 @@
     <img src="https://skillicons.dev/icons?i=github,bootstrap,azure,figma,ai,ps,qt,cpp,css,html,js,py,vscode,visualstudio&perline=7" />
   </a>
 </p>
-<div align="center">
-  <h2> My Stats</h2>
-  <div style="align: center" >
-    <a href="https://github.com/NEKalashnik22?tab=repositories">
-<img width=550 height=300 src="https://github-readme-stats.vercel.app/api?username=nekalashnik22&theme=city_lights&hide_title=true&hide_border=true&hide=stars,prs">
- </a>
-  </div>
-</div>
 <a href=""><img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"></a>
 
 
